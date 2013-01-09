@@ -15,3 +15,5 @@ You can also embed plots, for example:
 plot(cars)
 ```
 
+And you can embed latex equations.
+So let's assume that $X_1,\dots,X_J$ are Poisson random variables with $X_j \sim Poi(\mu_j)$.

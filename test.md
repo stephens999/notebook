@@ -31,3 +31,5 @@ plot(cars)
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 
+And you can embed latex equations.
+So let's assume that $X_1,\dots,X_J$ are Poisson random variables with $X_j \sim Poi(\mu_j)$.
